@@ -97,7 +97,7 @@ section .main {
   justify-content: space-around;
   position: relative;
   top: 80px;
-  margin-bottom: 70px;
+  margin-bottom: 120px;
 }
 
 section .main .main_text h1 {
